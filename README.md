@@ -168,38 +168,40 @@ Prompt:
 “Rewrite the above report in a formal academic style with bullet points, accuracy, and clarity.”
 
 # Output:
-Formal Report: Stress-Related Interview Questions and AI-Assisted Stress Management
 
-Executive Summary
+***Formal Report: Stress-Related Interview Questions and AI-Assisted Stress Management***
 
-Stress interviews test emotional stability and behaviour.
+# Executive Summary
 
-Common stress questions reveal confidence and decision-making.
+•Stress interviews test emotional stability and behaviour.
 
-AI tools now play a major role in interview preparation and stress reduction.
+•Common stress questions reveal confidence and decision-making.
 
-**Key Factors**
+•AI tools now play a major role in interview preparation and stress reduction.
 
-Structured and strategic answers are essential.
+### Key Factors
 
-AI improves communication skills and confidence.
+•Structured and strategic answers are essential.
 
-Stress management apps support mental calmness.
+•AI improves communication skills and confidence.
 
-**Impact**
+•Stress management apps support mental calmness.
 
-Candidates perform better with consistent AI-driven practice.
+### Impact
 
-Reduces anxiety and improves overall interview readiness.
+•Candidates perform better with consistent AI-driven practice.
+
+•Reduces anxiety and improves overall interview readiness.
 
 ## Step 6 : Evaluation of Prompt Techniques
-Prompt Technique	Purpose	Improvement Observed
-Query Decomposition	Break topic into clear sections	Organized and easy-to-read report
-Decision Making	Select tone and structure	Formal, academic output
-Tail Generation	Add depth to content	More detailed explanations
-Semantic Filtering	Professional tone	Improves clarity and formality
-Fact Check	Ensure accuracy	Realistic HR practices
-Final Version (Polished Report)
+
+•Prompt Technique	Purpose	Improvement Observed
+•Query Decomposition	Break topic into clear sections	Organized and easy-to-read report
+•Decision Making	Select tone and structure	Formal, academic output
+•Tail Generation	Add depth to content	More detailed explanations
+•Semantic Filtering	Professional tone	Improves clarity and formality
+•Fact Check	Ensure accuracy	Realistic HR practices
+•Final Version (Polished Report)
 
 ### Prompt:
 “Generate a final polished version of the report in a formal academic tone.”
@@ -209,5 +211,4 @@ Stress-based interviews remain an important technique to evaluate how candidates
 
 # Conclusion
 
-Using advanced prompting techniques such as query decomposition, semantic filtering, tail generation, and answer engineering, high-quality content on stress-related interview questions and AI-based stress management was created.
-This experiment proves that structured prompting significantly improves clarity, coherence, and professionalism in AI-generated content.
+Using advanced prompting techniques such as query decomposition, semantic filtering, tail generation, and answer engineering, high-quality content on stress-related interview questions and AI-based stress management was created.This experiment proves that structured prompting significantly improves clarity, coherence, and professionalism in AI-generated content.
