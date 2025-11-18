@@ -4,13 +4,13 @@ Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 ## Date: 18.11.2025
 ## Reg. No. 212223240033
 
-### Aim
+# Aim
 
 To demonstrate how prompting techniques such as query decomposition, decision-making, semantic filtering, answer engineering, and tail generation can be applied to create structured content.
 For this experiment, the chosen topic is a Report on Stress-Related Interview Questions, Answers, and How AI Helps Overcome Interview Stress.
 The goal is to show how different prompts influence the quality, clarity, and organization of the content.
 
-### Procedure
+# Procedure
 ## Step 1 : Introduction to Prompt Patterns
 
 Before generating the content, different prompting techniques were studied:
@@ -37,11 +37,11 @@ For this experiment, the content selected is:
 
 *Educational Report*
 
-# Topic: Stress-Related Interview Questions, Answers, and How AI Tools Help Reduce Interview Stress.
+### Topic: Stress-Related Interview Questions, Answers, and How AI Tools Help Reduce Interview Stress.
 
 This report explains how stress interviews work, common questions asked, ways to respond, and how modern AI tools help candidates stay prepared and confident.
 
-Step 3 : Creating the Prompts
+## Step 3 : Creating the Prompts
 Basic Prompt and Output
 
 # Prompt:
@@ -55,40 +55,40 @@ Stress interviews are conducted to observe how candidates react under pressure. 
 
 “Create a detailed educational report on stress-related interview questions using the following structure:
 
-1.Introduction
+**1.Introduction**
 
-2.Purpose of Stress Interviews
+**2.Purpose of Stress Interviews**
 
-3.Common Stress-Related Interview Questions and Answers (use answer engineering)
+**3.Common Stress-Related Interview Questions and Answers**
 
-4.Psychological Impact (use query decomposition)
+**4.Psychological Impact**
 
-5.Role of AI in Reducing Interview Stress (use tail generation)
+**5.Role of AI in Reducing Interview Stress**
 
-6.Results and Insights
+**6.Results and Insights**
 
-7.Conclusion — use semantic filtering for a formal tone.”
+**7.Conclusion — use semantic filtering for a formal tone.**
 
 # Output: Detailed Report
 Report: Stress-Related Interview Questions, Answers, and the Role of AI
 
-**1. Introduction**
+### 1. Introduction
 
 Stress interviews are intentionally designed to create pressure and evaluate how candidates respond to challenging situations. Employers use this technique to assess emotional stability, decision-making, and communication.
 
-2. Purpose of Stress Interviews
+### 2. Purpose of Stress Interviews
 
-Companies use stress questions to determine:
+• Companies use stress questions to determine:
 
-How candidates react to unexpected challenges
+• How candidates react to unexpected challenges
 
-Whether they can remain calm under pressure
+• Whether they can remain calm under pressure
 
-Their confidence, attitude, and professionalism
+• Their confidence, attitude, and professionalism
 
-Their ability to think clearly in stressful scenarios
+• Their ability to think clearly in stressful scenarios
 
-3. Common Stress-Related Interview Questions and Answers (Answer Engineering)
+### 3. Common Stress-Related Interview Questions and Answers (Answer Engineering)
 
 *Q1. “How do you handle pressure?”*
 Answer:
@@ -106,62 +106,61 @@ Answer:
 *Answer:*
 “I would analyse the feedback, identify areas for improvement, and work harder to meet expectations.”
 
-**4. Psychological Impact (Query Decomposition)**
+### 4. Psychological Impact (Query Decomposition)
 
 Stress interviews can influence candidates’:
 
-Confidence: Sudden or harsh questions may cause temporary pressure.
+• Confidence: Sudden or harsh questions may cause temporary pressure.
 
-Focus: High stress may affect clarity of thought.
+• Focus: High stress may affect clarity of thought.
 
-Behaviour: Body language, tone, and posture are tested.
+• Behaviour: Body language, tone, and posture are tested.
 
-Decision-Making: Responses reveal logical thinking during discomfort.
+• Decision-Making: Responses reveal logical thinking during discomfort.
 
 Understanding these aspects helps employers choose candidates who stay calm under pressure.
 
-**5. Role of AI in Reducing Interview Stress (Tail Generation)**
+### 5. Role of AI in Reducing Interview Stress (Tail Generation)
 
 AI tools help candidates prepare effectively through:
 
-AI Mock Interview Platforms
+• AI Mock Interview Platforms
 
-Simulated interviews with stress-based questions
+• Simulated interviews with stress-based questions
 
-Real-time feedback on tone, speed, eye contact
-
+• Real-time feedback on tone, speed, eye contact
 Examples: Google Interview Warmup, Yoodli AI, Talocity.
 
-AI-Based Stress Management Apps
+• AI-Based Stress Management Apps
 
-Breathing exercises and guided relaxation
+• Breathing exercises and guided relaxation
 
-Anxiety monitoring and instant support
+• Anxiety monitoring and instant support
 Examples: Wysa, Calm.
 
-AI for Answer Preparation
+• AI for Answer Preparation
 
-ChatGPT helps structure answers professionally
+• ChatGPT helps structure answers professionally
 
-STAR method coaching and personalized suggestions
+• STAR method coaching and personalized suggestions
 
-AI Communication Trainers
+• AI Communication Trainers
 
-Improve voice clarity and confidence
+• Improve voice clarity and confidence
 
-Reduce fear through repeated simulation
+• Reduce fear through repeated simulation
 
-AI improves preparedness, reduces anxiety, and increases interview confidence.
+• AI improves preparedness, reduces anxiety, and increases interview confidence.
 
-**6. Results and Insights**
+### 6. Results and Insights
 
-Structured prompts generated clear and professional interview answers.
+• Structured prompts generated clear and professional interview answers.
 
-Using semantic filtering improved tone and coherence.
+• Using semantic filtering improved tone and coherence.
 
-Decision-making prompts helped select the best explanations.
+• Decision-making prompts helped select the best explanations.
 
-AI tools were shown to be effective in reducing interview stress through practice and emotional support.
+• AI tools were shown to be effective in reducing interview stress through practice and emotional support.
 
 ## Step 5 : Further Prompt Refinement (Answer Engineering + Fact Check List)
 Prompt:
@@ -170,6 +169,7 @@ Prompt:
 
 # Output:
 Formal Report: Stress-Related Interview Questions and AI-Assisted Stress Management
+
 Executive Summary
 
 Stress interviews test emotional stability and behaviour.
